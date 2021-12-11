@@ -1,30 +1,22 @@
-# This is a large heading
+# Nelson Suniaga 
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Caracas, in the capital distrit, in Venezuela. 
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+### Reading
 
-Here is `some code` in the middle of a sentence.
+Three of my favorite books are:
 
-```
-This is
-a block
-of code
-```
+- *1984* by George Orwell
+- *Ringworld* by Larry Niven 
+- *The Hacker Crackdown* by Bruce Sterling
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Food
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Last night I ate tortilla with advocado.
 
-nano README.md
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/aviyi.angaya).
